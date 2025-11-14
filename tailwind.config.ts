@@ -47,6 +47,18 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        biodegradable: {
+          DEFAULT: "hsl(var(--biodegradable))",
+          light: "hsl(var(--biodegradable-light))",
+        },
+        plastic: {
+          DEFAULT: "hsl(var(--plastic))",
+          light: "hsl(var(--plastic-light))",
+        },
+        metal: {
+          DEFAULT: "hsl(var(--metal))",
+          light: "hsl(var(--metal-light))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
